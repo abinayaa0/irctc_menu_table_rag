@@ -1,0 +1,603 @@
+[
+  {
+    "meal_type": "Morning Tea",
+    "set_number": null,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [],
+    "nonveg_items": [],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "morning_tea_overview",
+    "chunk_text": "Service: Morning Tea\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 1,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Bhagar Veg Upma + Medu Vada + Coconut Chutney+ Sambhar."
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs",
+      "Tomato Ketchup sachet",
+      "2 sliced bread",
+      "Butter in blister pack."
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_set_1",
+    "chunk_text": "Service: Breakfast\nSet: 1\nItems: Bhagar Veg Upma + Medu Vada + Coconut Chutney+ Sambhar.\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 2,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Onion Uttapam + Dal Vada + Coconut Chutney+ Sambhar."
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs",
+      "Tomato Ketchup sachet",
+      "2 sliced bread",
+      "Butter in blister pack."
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_set_2",
+    "chunk_text": "Service: Breakfast\nSet: 2\nItems: Onion Uttapam + Dal Vada + Coconut Chutney+ Sambhar.\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 3,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Set Dosai (3 nos) + Medu Vada + Coconut Chutney+ Sambhar."
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs",
+      "Tomato Ketchup sachet",
+      "2 sliced bread",
+      "Butter in blister pack."
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_set_3",
+    "chunk_text": "Service: Breakfast\nSet: 3\nItems: Set Dosai (3 nos) + Medu Vada + Coconut Chutney+ Sambhar.\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 4,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "2 Stuffed (Aloo/ Gobhi/ Mix Veg. Etc) Paratha + Branded curd + Pickle in blister pack."
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs",
+      "Tomato Ketchup sachet",
+      "2 sliced bread",
+      "Butter in blister pack."
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_set_4",
+    "chunk_text": "Service: Breakfast\nSet: 4\nItems: 2 Stuffed (Aloo/ Gobhi/ Mix Veg. Etc) Paratha + Branded curd + Pickle in blister pack.\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 5,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "03 Idli + Medu Vada + Coconut Chutney+ Sambhar."
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs",
+      "Tomato Ketchup sachet",
+      "2 sliced bread",
+      "Butter in blister pack."
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_set_5",
+    "chunk_text": "Service: Breakfast\nSet: 5\nItems: 03 Idli + Medu Vada + Coconut Chutney+ Sambhar.\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 6,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Pongal + Medu Vada + Coconut Chutney+ Sambhar."
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs",
+      "Tomato Ketchup sachet",
+      "2 sliced bread",
+      "Butter in blister pack."
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_set_6",
+    "chunk_text": "Service: Breakfast\nSet: 6\nItems: Pongal + Medu Vada + Coconut Chutney+ Sambhar.\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 7,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Paneer. cutlet-2 + 2 sliced brown bread + Butter in blister pack."
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs",
+      "Tomato Ketchup sachet",
+      "2 sliced bread",
+      "Butter in blister pack."
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_set_7",
+    "chunk_text": "Service: Breakfast\nSet: 7\nItems: Paneer. cutlet-2 + 2 sliced brown bread + Butter in blister pack.\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": null,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [],
+    "nonveg_items": [],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "breakfast_overview",
+    "chunk_text": "Service: Breakfast\n\nCommon Items:\nChoice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Omelette of 2 eggs, Tomato Ketchup sachet, 2 sliced bread, Butter in blister pack."
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 1,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Batata Vada."
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_set_1",
+    "chunk_text": "Service: Evening Snacks\nSet: 1\nItems: Batata Vada.\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 2,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Baked Samosa."
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_set_2",
+    "chunk_text": "Service: Evening Snacks\nSet: 2\nItems: Baked Samosa.\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 3,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Mysore Bonda."
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_set_3",
+    "chunk_text": "Service: Evening Snacks\nSet: 3\nItems: Mysore Bonda.\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 4,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Vadai."
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_set_4",
+    "chunk_text": "Service: Evening Snacks\nSet: 4\nItems: Vadai.\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 5,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Aloo Samosa."
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_set_5",
+    "chunk_text": "Service: Evening Snacks\nSet: 5\nItems: Aloo Samosa.\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 6,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Dal Kachori."
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_set_6",
+    "chunk_text": "Service: Evening Snacks\nSet: 6\nItems: Dal Kachori.\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 7,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Mysore Bonda."
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_set_7",
+    "chunk_text": "Service: Evening Snacks\nSet: 7\nItems: Mysore Bonda.\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": null,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup."
+    ],
+    "has_nonveg_option": false,
+    "chunk_id": "evening_snacks_overview",
+    "chunk_text": "Service: Evening Snacks\n\nCommon Items:\nTomato Ketchup, Choice of Tea/ Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup.\n\nAlternative Option:"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 1,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Veg. Pulao",
+      "Dal Arhar",
+      "Mix Seasonal Veg of regional preference."
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)."
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_set_1",
+    "chunk_text": "Service: Lunch & Dinner\nSet: 1\nItems: Veg. Pulao, Dal Arhar, Mix Seasonal Veg of regional preference.\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 2,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Jeera Rice",
+      "Dal Tadka",
+      "Mix Seasonal Veg of regional preference."
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)."
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_set_2",
+    "chunk_text": "Service: Lunch & Dinner\nSet: 2\nItems: Jeera Rice, Dal Tadka, Mix Seasonal Veg of regional preference.\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 3,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Plain Rice",
+      "Moong Dal",
+      "Mix Seasonal Veg of regional preference."
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)."
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_set_3",
+    "chunk_text": "Service: Lunch & Dinner\nSet: 3\nItems: Plain Rice, Moong Dal, Mix Seasonal Veg of regional preference.\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 4,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Jeera Rice",
+      "Dal Chana",
+      "Mix Seasonal Veg of regional preference."
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)."
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_set_4",
+    "chunk_text": "Service: Lunch & Dinner\nSet: 4\nItems: Jeera Rice, Dal Chana, Mix Seasonal Veg of regional preference.\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 5,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Plain Rice",
+      "Dal Chola",
+      "Mix Seasonal Veg of regional preference."
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)."
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_set_5",
+    "chunk_text": "Service: Lunch & Dinner\nSet: 5\nItems: Plain Rice, Dal Chola, Mix Seasonal Veg of regional preference.\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 6,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Jeera Rice",
+      "Moong Dal",
+      "Mix Seasonal Veg of regional preference."
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)."
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_set_6",
+    "chunk_text": "Service: Lunch & Dinner\nSet: 6\nItems: Jeera Rice, Moong Dal, Mix Seasonal Veg of regional preference.\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 7,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Veg. Pulao",
+      "Dal Fry",
+      "Mix Seasonal Veg of regional preference."
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)."
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_set_7",
+    "chunk_text": "Service: Lunch & Dinner\nSet: 7\nItems: Veg. Pulao, Dal Fry, Mix Seasonal Veg of regional preference.\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": null,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [],
+    "nonveg_items": [],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair."
+    ],
+    "has_nonveg_option": true,
+    "chunk_id": "lunch_and_dinner_overview",
+    "chunk_text": "Service: Lunch & Dinner\n\nCommon Items:\nPlain Roti (4 no), Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair.\n\nAlternative Option:\nany set can be replaced with the non-vegetarian option: Chicken Curry of regional preference ( boneless chicken)."
+  },
+  {
+    "meal_type": "General Information",
+    "set_number": null,
+    "price": 0,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [],
+    "nonveg_items": [],
+    "common_items": [],
+    "has_nonveg_option": false,
+    "chunk_id": "service_notes",
+    "chunk_text": "General Service Information\n\nThe following policies apply to all meal types and sets:\n- The following policies apply across all services and rotating sets:\n- Service In Good Quality Casseroles\n- Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number\n- Option of Jain/ diabetic Food to be provided.\n- Ready Made Masala Tea to be provided on demand"
+  }
+]

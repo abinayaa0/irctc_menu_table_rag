@@ -1,0 +1,7 @@
+pdfplumber==0.11.*
+qdrant-client==1.9.*
+FlagEmbedding==1.2.*
+python-dotenv==1.0.*
+rich==13.*
+gradio
+openai

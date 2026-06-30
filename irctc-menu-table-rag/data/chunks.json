@@ -1,0 +1,819 @@
+[
+  {
+    "meal_type": "Morning Tea",
+    "set_number": 1,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Choice of Tea/ Coffee"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "morning_tea_set_1",
+    "chunk_text": "Morning Tea menu for Set 1.\n\nVegetarian option:\n* Tea\n* Coffee\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.15.\n\nSearch & Metadata:\n* Meal Type: Morning Tea\n* Set Number: Set 1\n* Price: Rs.15\n* Cuisine/Cuisine Style: Beverages\n* Keywords: tea, coffee"
+  },
+  {
+    "meal_type": "Morning Tea",
+    "set_number": 2,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Choice of Tea/ Coffee"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "morning_tea_set_2",
+    "chunk_text": "Morning Tea menu for Set 2.\n\nVegetarian option:\n* Tea\n* Coffee\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.15.\n\nSearch & Metadata:\n* Meal Type: Morning Tea\n* Set Number: Set 2\n* Price: Rs.15\n* Cuisine/Cuisine Style: Beverages\n* Keywords: tea, coffee"
+  },
+  {
+    "meal_type": "Morning Tea",
+    "set_number": 3,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Choice of Tea/ Coffee"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "morning_tea_set_3",
+    "chunk_text": "Morning Tea menu for Set 3.\n\nVegetarian option:\n* Tea\n* Coffee\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.15.\n\nSearch & Metadata:\n* Meal Type: Morning Tea\n* Set Number: Set 3\n* Price: Rs.15\n* Cuisine/Cuisine Style: Beverages\n* Keywords: tea, coffee"
+  },
+  {
+    "meal_type": "Morning Tea",
+    "set_number": 4,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Choice of Tea/ Coffee"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "morning_tea_set_4",
+    "chunk_text": "Morning Tea menu for Set 4.\n\nVegetarian option:\n* Tea\n* Coffee\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.15.\n\nSearch & Metadata:\n* Meal Type: Morning Tea\n* Set Number: Set 4\n* Price: Rs.15\n* Cuisine/Cuisine Style: Beverages\n* Keywords: tea, coffee"
+  },
+  {
+    "meal_type": "Morning Tea",
+    "set_number": 5,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Choice of Tea/ Coffee"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "morning_tea_set_5",
+    "chunk_text": "Morning Tea menu for Set 5.\n\nVegetarian option:\n* Tea\n* Coffee\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.15.\n\nSearch & Metadata:\n* Meal Type: Morning Tea\n* Set Number: Set 5\n* Price: Rs.15\n* Cuisine/Cuisine Style: Beverages\n* Keywords: tea, coffee"
+  },
+  {
+    "meal_type": "Morning Tea",
+    "set_number": 6,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Choice of Tea/ Coffee"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "morning_tea_set_6",
+    "chunk_text": "Morning Tea menu for Set 6.\n\nVegetarian option:\n* Choice of Tea/ Coffee\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.15.\n\nSearch & Metadata:\n* Meal Type: Morning Tea\n* Set Number: Set 6\n* Price: Rs.15\n* Cuisine/Cuisine Style: Beverages\n* Keywords: tea, coffee"
+  },
+  {
+    "meal_type": "Morning Tea",
+    "set_number": 7,
+    "price": 15,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Choice of Tea/ Coffee"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "morning_tea_set_7",
+    "chunk_text": "Morning Tea menu for Set 7.\n\nVegetarian option:\n* Tea\n* Coffee\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.15.\n\nSearch & Metadata:\n* Meal Type: Morning Tea\n* Set Number: Set 7\n* Price: Rs.15\n* Cuisine/Cuisine Style: Beverages\n* Keywords: tea, coffee"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 1,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Bhagar Veg Upma + Medu Vada + Coconut Chutney+ Sambhar"
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack"
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "breakfast_set_1",
+    "chunk_text": "Breakfast menu for Set 1.\n\nVegetarian option:\n* Bhagar Veg Upma\n* Medu Vada\n* Coconut Chutney\n* Sambhar\n\nNon-vegetarian option:\n* Omelette of 2 eggs\n* Tomato Ketchup sachet\n* 2 sliced bread\n* Butter in blister pack\n\nPrice: Rs.65.\n\nSearch & Metadata:\n* Meal Type: Breakfast\n* Set Number: Set 1\n* Price: Rs.65\n* Cuisine/Cuisine Style: South Indian\n* Keywords: Bhagar, Veg Upma, Medu Vada, Coconut Chutney, Sambhar, Omelette, Tomato Ketchup, Bread, Butter"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 2,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Onion Uttapam + Dal Vada + Coconut Chutney+ Sambhar"
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack"
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "breakfast_set_2",
+    "chunk_text": "Breakfast menu for Set 2.\n\nVegetarian option:\n* Onion Uttapam\n* Dal Vada\n* Coconut Chutney\n* Sambhar\n\nNon-vegetarian option:\n* Omelette of 2 eggs\n* 2 sliced bread\n* Tomato Ketchup sachet\n\nPrice: Rs.65.\n\nSearch & Metadata:\n* Meal Type: Breakfast\n* Set Number: Set 2\n* Price: Rs.65\n* Cuisine/Cuisine Style: South Indian\n* Keywords: onion uttapam, dal vada, coconut chutney, sambhar, omelette, sliced bread, tomato ketchup"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 3,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Set Dosai (3 nos) + Medu Vada + Coconut Chutney+ Sambhar"
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack"
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "breakfast_set_3",
+    "chunk_text": "## Breakfast menu for Set 3\n\n**Vegetarian option:**\n* Set Dosai (3 nos) + Medu Vada + Coconut Chutney+ Sambhar\n\n**Non-vegetarian option:**\n* Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack\n\nPrice: Rs.65.\n\n**Search & Metadata:**\n* Meal Type: Breakfast\n* Set Number: Set 3\n* Price: Rs.65\n* Cuisine/Cuisine Style: South Indian\n* Keywords: dosai, vada, sambhar, coconut chutney, medhu vada, omelete, tomato ketchup, bread, butter"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 4,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "2 Stuffed (Aloo/ Gobhi/ Mix Veg. Etc) Paratha + Branded curd + Pickle in blister pack"
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack"
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "breakfast_set_4",
+    "chunk_text": "Breakfast menu for Set 4.\n\nVegetarian option:\n* Stuffed Paratha\n* Curd\n\nNon-vegetarian option:\n* Omelette of 2 eggs\n* Sliced bread\n* Butter\n\nPrice: Rs.65.\n\nSearch & Metadata:\n* Meal Type: Breakfast\n* Set Number: Set 4\n* Price: Rs.65\n* Cuisine/Cuisine Style: Standard Breakfast\n* Keywords: Paratha, omelette, sliced bread, butter, tomato ketchup"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 5,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "03 Idli + Medu Vada + Coconut Chutney+ Sambhar"
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack"
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "breakfast_set_5",
+    "chunk_text": "Breakfast menu for Set 5.\n\nVegetarian option:\n* 03 Idli\n* Medu Vada\n* Coconut Chutney\n* Sambhar\n\nNon-vegetarian option:\n* Omelette of 2 eggs\n* 2 sliced bread\n* Tomato Ketchup sachet\n\nPrice: Rs.65.\n\nSearch & Metadata:\n* Meal Type: Breakfast\n* Set Number: Set 5\n* Price: Rs.65\n* Cuisine/Cuisine Style: South Indian\n* Keywords: idli, vada, sambhar, coconut chutney, tomato ketchup, omelette, bread, sliced bread"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 6,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Pongal + Medu Vada + Coconut Chutney+ Sambhar"
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack"
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "breakfast_set_6",
+    "chunk_text": "Breakfast menu for Set 6.\n\nVegetarian option:\n* Pongal\n* Medu Vada\n* Coconut Chutney\n* Sambhar\n\nNon-vegetarian option:\n* Omelette of 2 eggs\n* 2 sliced bread\n* Tomato Ketchup sachet\n\nPrice: Rs.65.\n\nSearch & Metadata:\n* Meal Type: Breakfast\n* Set Number: Set 6\n* Price: Rs.65\n* Cuisine/Cuisine Style: South Indian\n* Keywords: pongal, medu vada, coconut chutney, sambhar, omelette, bread, tomato ketchup"
+  },
+  {
+    "meal_type": "Breakfast",
+    "set_number": 7,
+    "price": 65,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Paneer. cutlet-2 + 2 sliced brown bread + Butter in blister pack"
+    ],
+    "nonveg_items": [
+      "Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack"
+    ],
+    "common_items": [
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "breakfast_set_7",
+    "chunk_text": "Breakfast menu for Set 7.\n\nVegetarian option:\n* Paneer cutlet-2 + 2 sliced brown bread + Butter in blister pack\n\nNon-vegetarian option:\n* Omelette of 2 eggs + Tomato Ketchup sachet + 2 sliced bread + Butter in blister pack\n\nPrice: Rs.65.\n\nSearch & Metadata:\n* Meal Type: Breakfast\n* Set Number: Set 7\n* Price: Rs.65\n* Cuisine/Cuisine Style: South Indian\n* Keywords: paneer cutlet, brown bread, omelette, tomato ketchup, sliced bread, butter"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 1,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Batata Vada"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "evening_snacks_set_1",
+    "chunk_text": "Evening Snacks menu for Set 1.\n\nVegetarian option:\n* Batata Vada\n \nNon-vegetarian option:\n* None\n\nPrice: Rs.50.\n\nSearch & Metadata:\n* Meal Type: Evening Snacks\n* Set Number: Set 1\n* Price: Rs.50\n* Cuisine/Cuisine Style: South Indian\n* Keywords: batata vada, tomato ketchup, tea, coffee, sugar sachet, dairy creamer sachet, stirrer, napkin tissue, disposable cup"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 2,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Baked Samosa"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "evening_snacks_set_2",
+    "chunk_text": "Evening Snacks menu for Set 2.\n\nVegetarian option:\n* Baked Samosa\n* Choice of Tea/ Coffee\n* Sugar Sachet / Sugarfree sachets\n* Dairy Creamer sachet\n* Stirrer + Napkin tissue\n* Disposable Cup\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.50.\n\nSearch & Metadata:\n* Meal Type: Evening Snacks\n* Set Number: Set 2\n* Price: Rs.50\n* Cuisine/Cuisine Style: South Indian\n* Keywords: samosa, tea, coffee, sugar, creamer, stirrer, napkin, disposable cup"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 3,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Mysore Bonda"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "evening_snacks_set_3",
+    "chunk_text": "Evening Snacks menu for Set 3.\n\nVegetarian option:\n* Mysore Bonda\n* Choice of Tea/ Coffee\n* Sugar Sachet / Sugarfree sachets\n* Dairy Creamer sachet\n* Stirrer + Napkin tissue\n* Disposable Cup\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.50.\n\nSearch & Metadata:\n* Meal Type: Evening Snacks\n* Set Number: Set 3\n* Price: Rs.50\n* Cuisine/Cuisine Style: South Indian\n* Keywords: Mysore Bonda, Tea, Coffee, Sugar Sachet, Dairy Creamer sachet, Stirrer, Napkin tissue, Disposable Cup"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 4,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Vadai"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "evening_snacks_set_4",
+    "chunk_text": "Evening Snacks menu for Set 4.\n\nVegetarian option:\n* Vadai\n* [Item 1]\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.50.\n\nSearch & Metadata:\n* Meal Type: Evening Snacks\n* Set Number: Set 4\n* Price: Rs.50\n* Cuisine/Cuisine Style: South Indian\n* Keywords: vadai, tomato ketchup, tea, coffee, sugar sachet, dairy creamer sachet, stirrer, napkin tissue, disposable cup"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 5,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Aloo Samosa"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "evening_snacks_set_5",
+    "chunk_text": "Evening Snacks menu for Set 5.\n\nVegetarian option:\n* Aloo Samosa\n* Sugar Sachet / Sugarfree sachets\n* Dairy Creamer sachet\n* Stirrer + Napkin tissue\n* Disposable Cup\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.50.\n\nSearch & Metadata:\n* Meal Type: Evening Snacks\n* Set Number: Set 5\n* Price: Rs.50\n* Cuisine/Cuisine Style: South Indian\n* Keywords: Aloo Samosa, Tomato Ketchup, Tea/Coffee, Sugar Sachet / Sugarfree sachets, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 6,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Dal Kachori"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "evening_snacks_set_6",
+    "chunk_text": "Evening Snacks menu for Set 6.\n\nVegetarian option:\n* Dal Kachori\n* Sugar Sachet / Sugarfree sachets\n* Dairy Creamer sachet\n* Stirrer + Napkin tissue\n* Disposable Cup\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.50.\n\nSearch & Metadata:\n* Meal Type: Evening Snacks\n* Set Number: Set 6\n* Price: Rs.50\n* Cuisine/Cuisine Style: South Indian\n* Keywords: Dal Kachori, Sugar Sachet, Dairy Creamer sachet, Stirrer + Napkin tissue, Disposable Cup"
+  },
+  {
+    "meal_type": "Evening Snacks",
+    "set_number": 7,
+    "price": 50,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Mysore Bonda"
+    ],
+    "nonveg_items": [],
+    "common_items": [
+      "Tomato Ketchup",
+      "Choice of Tea/ Coffee",
+      "Sugar Sachet / Sugarfree sachets",
+      "Dairy Creamer sachet",
+      "Stirrer + Napkin tissue",
+      "Disposable Cup"
+    ],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "evening_snacks_set_7",
+    "chunk_text": "Evening Snacks menu for Set 7.\n\nVegetarian option:\n* Mysore Bonda\n* Choice of Tea/ Coffee\n* Sugar Sachet / Sugarfree sachets\n* Dairy Creamer sachet\n* Stirrer + Napkin tissue\n* Disposable Cup\n\nNon-vegetarian option:\n* None\n\nPrice: Rs.50.\n\nSearch & Metadata:\n* Meal Type: Evening Snacks\n* Set Number: Set 7\n* Price: Rs.50\n* Cuisine/Cuisine Style: South Indian\n* Keywords: Mysore Bonda, Tea, Coffee, Sugar Sachet, Dairy Creamer sachet, Stirrer, Napkin tissue, Disposable Cup"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 1,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Veg. Pulao",
+      "Dal Arhar"
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)"
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Mix Seasonal Veg of regional preference",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "lunch_and_dinner_set_1",
+    "chunk_text": "Lunch & Dinner menu for Set 1.\n\nVegetarian option:\n* Veg. Pulao\n* Dal Arhar\n\nNon-vegetarian option:\n* Chicken Curry of regional preference ( boneless chicken)\n\nPrice: Rs.120.\n\nSearch & Metadata:\n* Meal Type: Lunch & Dinner\n* Set Number: Set 1\n* Price: Rs.120\n* Cuisine/Cuisine Style: South Indian\n* Keywords: roti, pickle, curd, Eclair,  Veg. Pulao, Dal Arhar, chicken curry"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 2,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Jeera Rice",
+      "Dal Tadka"
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)"
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Mix Seasonal Veg of regional preference",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "lunch_and_dinner_set_2",
+    "chunk_text": "Lunch & Dinner menu for Set 2.\n\nVegetarian option:\n* Jeera Rice\n* Dal Tadka\n\nNon-vegetarian option:\n* Chicken Curry of regional preference ( boneless chicken)\n\nPrice: Rs.120.\n\nSearch & Metadata:\n* Meal Type: Lunch & Dinner\n* Set Number: Set 2\n* Price: Rs.120\n* Cuisine/Cuisine Style: South Indian\n* Keywords: roti, pickle, curd, rice, dal, curry, chicken,"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 3,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Plain Rice",
+      "Moong Dal"
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)"
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Mix Seasonal Veg of regional preference",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "lunch_and_dinner_set_3",
+    "chunk_text": "Lunch & Dinner menu for Set 3.\n\nVegetarian option:\n* Plain Rice\n* Moong Dal\n\nNon-vegetarian option:\n* Chicken Curry of regional preference ( boneless chicken)\n\nPrice: Rs.120.\n\nSearch & Metadata:\n* Meal Type: Lunch & Dinner\n* Set Number: Set 3\n* Price: Rs.120\n* Cuisine/Cuisine Style: South Indian\n* Keywords: roti, pickle, curd, Eclair, plain rice, moong dal, chicken curry"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 4,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Jeera Rice",
+      "Dal Chana"
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)"
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Mix Seasonal Veg of regional preference",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "lunch_and_dinner_set_4",
+    "chunk_text": "Lunch & Dinner menu for Set 4.\n\nVegetarian option:\n* Jeera Rice\n* Dal Chana\n\nNon-vegetarian option:\n* Chicken Curry of regional preference ( boneless chicken)\n\nPrice: Rs.120.\n\nSearch & Metadata:\n* Meal Type: Lunch & Dinner\n* Set Number: Set 4\n* Price: Rs.120\n* Cuisine/Cuisine Style: South Indian\n* Keywords: Roti, Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper, Salt & Pepper Sachet, Disposable wooden spoon, Eclair, Jeera Rice, Dal Chana, Chicken Curry of regional preference ( boneless chicken)"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 5,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Plain Rice",
+      "Dal Chola"
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)"
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Mix Seasonal Veg of regional preference",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "lunch_and_dinner_set_5",
+    "chunk_text": "Lunch & Dinner menu for Set 5.\n\nVegetarian option:\n* Plain Rice\n* Dal Chola\n\nNon-vegetarian option:\n* Chicken Curry of regional preference ( boneless chicken)\n\nPrice: Rs.120.\n\nSearch & Metadata:\n* Meal Type: Lunch & Dinner\n* Set Number: Set 5\n* Price: Rs.120\n* Cuisine/Cuisine Style: South Indian\n* Keywords: roti, pickle, curd,  Eclair, plain rice, dal chola, chicken curry"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 6,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Jeera Rice",
+      "Moong Dal"
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)"
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Mix Seasonal Veg of regional preference",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "lunch_and_dinner_set_6",
+    "chunk_text": "Lunch & Dinner menu for Set 6.\n\nVegetarian option:\n* Jeera Rice\n* Moong Dal\n\nNon-vegetarian option:\n* Chicken Curry of regional preference ( boneless chicken)\n\nPrice: Rs.120.\n\nSearch & Metadata:\n* Meal Type: Lunch & Dinner\n* Set Number: Set 6\n* Price: Rs.120\n* Cuisine/Cuisine Style: South Indian\n* Keywords: Roti, Pickle Sachet, Branded Curd/ Mishti Doi, Napkin Tissue Paper, Salt & Pepper Sachet, Disposable wooden spoon, Eclair, Jeera Rice, Moong Dal, Chicken Curry of regional preference ( boneless chicken)"
+  },
+  {
+    "meal_type": "Lunch & Dinner",
+    "set_number": 7,
+    "price": 120,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [
+      "Veg. Pulao",
+      "Dal Fry"
+    ],
+    "nonveg_items": [
+      "Chicken Curry of regional preference ( boneless chicken)"
+    ],
+    "common_items": [
+      "Plain Roti (4 no)",
+      "Mix Seasonal Veg of regional preference",
+      "Pickle Sachet",
+      "Branded Curd/ Mishti Doi",
+      "Napkin Tissue Paper + Salt & Pepper Sachet + Disposable wooden spoon + 01 Eclair"
+    ],
+    "has_nonveg_option": true,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "lunch_and_dinner_set_7",
+    "chunk_text": "Lunch & Dinner menu for Set 7.\n\nVegetarian option:\n* Veg. Pulao\n* Dal Fry\n\nNon-vegetarian option:\n* Chicken Curry of regional preference ( boneless chicken)\n\nPrice: Rs.120.\n\nSearch & Metadata:\n* Meal Type: Lunch & Dinner\n* Set Number: Set 7\n* Price: Rs.120\n* Cuisine/Cuisine Style: South Indian\n* Keywords: roti, pickle, branded curd, Eclair, Veg. Pulao, Dal Fry, Chicken Curry of regional preference ( boneless chicken)"
+  },
+  {
+    "meal_type": "General Information",
+    "set_number": null,
+    "price": 0,
+    "region": "South Central Zone",
+    "train_class": "Sleeper Class (SL)",
+    "veg_items": [],
+    "nonveg_items": [],
+    "common_items": [],
+    "has_nonveg_option": false,
+    "footnotes": [
+      "Service In Good Quality Casseroles",
+      "Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number",
+      "Option of Jain/ diabetic Food to be provided.",
+      "Ready Made Masala Tea to be provided on demand"
+    ],
+    "chunk_id": "service_notes",
+    "chunk_text": "General Service Information\n\nThe following policies apply to all meal types and sets:\n- Service In Good Quality Casseroles\n- Food to be served on a tray, with tray mat having details of menu and IRCTC toll free number\n- Option of Jain/ diabetic Food to be provided.\n- Ready Made Masala Tea to be provided on demand"
+  }
+]

@@ -1,0 +1,35 @@
+# Environment variables (keep secrets out of git)
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+rag_env/
+venv/
+env/
+.venv/
+
+# Qdrant local vector store (large binary data)
+qdrant_local/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Gradio temp files
+.gradio/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
