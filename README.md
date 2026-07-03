@@ -1,4 +1,4 @@
-# IRCTC Menu Table RAG
+## IRCTC Menu Table RAG
 
 A **Hybrid Retrieval-Augmented Generation (RAG)** system for querying the **IRCTC South Central Zone food menu** served on Rajdhani and Duronto trains in **Sleeper Class (SL)**.
 
