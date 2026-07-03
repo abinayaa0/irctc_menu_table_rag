@@ -1,59 +1,92 @@
-IRCTC Menu Table RAG
-A Hybrid Retrieval-Augmented Generation (RAG) system for querying the IRCTC South Central Zone food menu served on Rajdhani and Duronto trains in Sleeper Class (SL). The system parses a structured menu PDF, indexes it into a local vector store, and answers natural language queries using hybrid retrieval and a locally-hosted language model.
+# IRCTC Menu Table RAG
 
-Overview
-Indian Railways (IRCTC) serves a 7-day rotating meal menu on select express trains. This project builds an end-to-end RAG pipeline over that menu, enabling passengers to query meal availability, prices, and dietary options without reading through the full document.
-The website can be found here:
+A **Hybrid Retrieval-Augmented Generation (RAG)** system for querying the **IRCTC South Central Zone food menu** served on Rajdhani and Duronto trains in **Sleeper Class (SL)**.
+
+The system parses a structured menu PDF, indexes it into a local vector store, and answers natural language questions using **hybrid retrieval**, **cross-encoder reranking**, and a **locally hosted LLM**.
+
+---
+
+## Overview
+
+Indian Railways (IRCTC) serves a **7-day rotating meal menu** on select express trains.
+
+This project builds an end-to-end RAG pipeline over that menu, allowing passengers to ask questions about meal availability, prices, and dietary options without manually browsing the PDF.
+
+**Official Menu Website:**  
 https://menurates.irctc.co.in/
 
-Supported queries include:
+### Example Queries
 
-What is served for breakfast on Set 3?
-Which sets include paneer in lunch?
-I have Rs.60 — what can I get?
-Is there a Jain meal option available?
-What is common across all evening snack sets?
-Architecture
+- What is served for breakfast on Set 3?
+- Which lunch sets include paneer?
+- I have Rs.60 — what can I get?
+- Is there a Jain meal option available?
+- What is common across all evening snack sets?
+
+---
+
+## Architecture
+
+```text
 South-Central.pdf
-      |
-      v
- parse_pdf_llm.py        -- PDF extraction and LLM-assisted structured chunking
-      |
-      v
- data/chunks_llm.json    -- 26 structured chunks (7 sets x meal types + overviews)
-      |
-      v
- build_index_llm.py      -- BGE-M3 dense + sparse embedding, Qdrant indexing
-      |
-      v
- qdrant_local/           -- On-disk Qdrant vector store (no Docker required)
-      |
-      v
- query_llm.py            -- Hybrid search (RRF), cross-encoder reranking, LLM generation
-      |
-      v
- app_llm.py              -- Gradio web UI (optional)
-Retrieval pipeline:
+        │
+        ▼
+parse_pdf_llm.py
+        │
+        ▼
+data/chunks_llm.json
+        │
+        ▼
+build_index_llm.py
+        │
+        ▼
+qdrant_local/
+        │
+        ▼
+query_llm.py
+        │
+        ▼
+app_llm.py (Gradio UI)
+```
 
-Query is encoded with BGE-M3 (dense + sparse vectors)
-Hybrid search using Reciprocal Rank Fusion (RRF) over Qdrant
-Candidates are reranked using bge-reranker-base
-Top chunks are passed to a locally-hosted LLM via Ollama (OpenAI-compatible API)
-The LLM generates a grounded answer constrained to the retrieved context
-Menu Structure
-Meal Type	Price (incl. tax)	Sets
-Morning Tea	Rs. 15	1 to 7
-Breakfast	Rs. 65	1 to 7
-Evening Snacks	Rs. 50	1 to 7
-Lunch & Dinner	Rs. 120	1 to 7
-7 rotating sets served cyclically across journeys
-Jain and diabetic meals available on request from train staff
-Ready-made Masala Tea available on demand
-Requirements
-Python 3.10 or later
-Ollama running locally with a compatible model (default: gemma2:2b)
-~4 GB disk space for model weights (BGE-M3 + reranker, downloaded on first run)
-Python dependencies
+### Retrieval Pipeline
+
+1. Encode the user query using **BGE-M3** (dense + sparse embeddings).
+2. Perform hybrid retrieval in **Qdrant**.
+3. Fuse dense and sparse rankings using **Reciprocal Rank Fusion (RRF)**.
+4. Rerank retrieved chunks using **bge-reranker-base**.
+5. Send the highest-ranked chunks to a locally hosted LLM through **Ollama**.
+6. Generate a grounded answer constrained to the retrieved context.
+
+---
+
+## Menu Structure
+
+| Meal | Price (Inclusive of Tax) | Available Sets |
+|------|--------------------------:|---------------|
+| Morning Tea | Rs.15 | 1–7 |
+| Breakfast | Rs.65 | 1–7 |
+| Evening Snacks | Rs.50 | 1–7 |
+| Lunch & Dinner | Rs.120 | 1–7 |
+
+### Additional Information
+
+- 7 rotating meal sets
+- Jain meals available on request
+- Diabetic meals available on request
+- Ready-made Masala Tea available on demand
+
+---
+
+## Requirements
+
+- Python 3.10+
+- Ollama
+- Approximately 4 GB of disk space
+
+### Python Dependencies
+
+```text
 pdfplumber==0.11.*
 qdrant-client==1.9.*
 FlagEmbedding==1.2.*
@@ -61,95 +94,183 @@ python-dotenv==1.0.*
 rich==13.*
 gradio
 openai
-Setup
-1. Clone the repository
+```
 
+---
+
+## Setup
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/abinayaa0/irctc_menu_rag.git
 cd irctc_menu_rag/irctc-menu-table-rag
-2. Create and activate a virtual environment
+```
 
+### 2. Create and Activate a Virtual Environment
+
+**Windows**
+
+```bash
 python -m venv rag_env
-# Windows
 rag_env\Scripts\activate
-# macOS / Linux
+```
+
+**macOS / Linux**
+
+```bash
+python -m venv rag_env
 source rag_env/bin/activate
-3. Install dependencies
+```
 
+### 3. Install Dependencies
+
+```bash
 pip install -r requirements.txt
-4. Configure environment variables
+```
 
+### 4. Configure Environment Variables
+
+Copy the example environment file:
+
+```bash
 cp .env.example .env
-Edit .env to set your Ollama model and base URL:
+```
 
+Edit `.env`:
+
+```env
 OLLAMA_MODEL=gemma2:2b
 OLLAMA_BASE_URL=http://localhost:11434/v1
 QDRANT_PATH=./qdrant_local
-5. Place the source PDF
+```
 
-Copy the IRCTC South Central menu PDF into the data directory:
+### 5. Add the Source PDF
 
+Place the IRCTC South Central menu PDF in:
+
+```text
 data/South-Central.pdf
-6. Start Ollama
+```
 
+### 6. Start Ollama
+
+```bash
 ollama serve
 ollama pull gemma2:2b
-Usage
-Full pipeline — parse, index, then query interactively
+```
+
+---
+
+## Usage
+
+### Run the Complete Pipeline
+
+```bash
 python main.py
-One-shot query
+```
+
+### One-Shot Query
+
+```bash
 python main.py --query "What is served for breakfast on Set 3?"
-Run individual steps
-# Step 1: Parse PDF into structured chunks
+```
+
+### Run Individual Components
+
+#### Parse the PDF
+
+```bash
 python parse_pdf_llm.py
+```
 
-# Step 2: Build Qdrant vector index
+#### Build the Vector Index
+
+```bash
 python build_index_llm.py
+```
 
-# Step 3: Start interactive terminal assistant
+#### Interactive Terminal Assistant
+
+```bash
 python query_llm.py
+```
 
-# Step 3 (single query): Run one query and exit
+#### Single Query
+
+```bash
 python query_llm.py --query "I have Rs.60, what can I get?"
-Launch the Gradio web UI
-python app_llm.py
-The web interface will be available at http://localhost:7860.
+```
 
-Project Structure
+### Launch the Gradio Web UI
+
+```bash
+python app_llm.py
+```
+
+The interface will be available at:
+
+```text
+http://localhost:7860
+```
+
+---
+
+## Project Structure
+
+```text
 irctc-menu-table-rag/
 ├── data/
 │   ├── South-Central.pdf        # Source menu document
-│   ├── chunks.json              # Chunks from rule-based parser
-│   ├── chunks_llm.json          # Chunks from LLM-assisted parser
+│   ├── chunks.json              # Rule-based parser output
+│   ├── chunks_llm.json          # LLM-assisted parser output
 │   └── menu_descriptions.md     # Human-readable menu reference
-├── app.py                       # Gradio UI (rule-based pipeline)
-├── app_llm.py                   # Gradio UI (LLM pipeline)
-├── build_index.py               # Qdrant indexer (rule-based)
-├── build_index_llm.py           # Qdrant indexer (LLM chunking)
+├── app.py                       # Rule-based Gradio UI
+├── app_llm.py                   # LLM-based Gradio UI
+├── build_index.py               # Rule-based index builder
+├── build_index_llm.py           # LLM index builder
 ├── main.py                      # Unified pipeline entry point
-├── parse_pdf.py                 # Rule-based PDF parser
-├── parse_pdf_llm.py             # LLM-assisted PDF parser
-├── query.py                     # Terminal query loop (rule-based)
-├── query_llm.py                 # Terminal query loop (LLM)
+├── parse_pdf.py                 # Rule-based parser
+├── parse_pdf_llm.py             # LLM-assisted parser
+├── query.py                     # Rule-based terminal assistant
+├── query_llm.py                 # LLM terminal assistant
 ├── check_spelling.py            # Menu spelling validator
-├── test_handlers.py             # Unit tests for query handlers
+├── test_handlers.py             # Unit tests
 ├── requirements.txt
 ├── .env.example
 └── README.md
-Notebooks
-Three Jupyter notebooks are included for experimentation and Colab compatibility:
+```
 
-Notebook	Description
-irctc_sc_rag.ipynb	Rule-based RAG pipeline
-irctc_sc_rag_v2.ipynb	Improved rule-based pipeline with hybrid retrieval
-irctc_sc_rag_llm_colab.ipynb	LLM-assisted pipeline, Colab-ready
-Technical Notes
-Embeddings: BAAI/bge-m3 — multi-lingual, supports both dense and sparse (lexical) representations
-Reranker: BAAI/bge-reranker-base — cross-encoder reranking for precision
-Vector store: Qdrant (local on-disk, no server or Docker required)
-Fusion: Reciprocal Rank Fusion (RRF, k=60) combines dense and sparse rankings
-LLM: Any OpenAI-compatible model served via Ollama (default: gemma2:2b)
-Retrieval routing: Smart routing — pinpoint hybrid search for specific set+meal queries, full scroll for general queries
-Reranker threshold: Low-confidence chunks are filtered to reduce hallucination in smaller models
-License
-This project is released for educational and research purposes. The IRCTC menu data is sourced from publicly available railway documents.
+---
 
+## Notebooks
+
+| Notebook | Description |
+|-----------|-------------|
+| `irctc_sc_rag.ipynb` | Rule-based RAG pipeline |
+| `irctc_sc_rag_v2.ipynb` | Hybrid retrieval pipeline |
+| `irctc_sc_rag_llm_colab.ipynb` | LLM-assisted pipeline for Google Colab |
+
+---
+
+## Technical Details
+
+| Component | Technology |
+|-----------|------------|
+| Embeddings | BAAI/bge-m3 |
+| Reranker | BAAI/bge-reranker-base |
+| Vector Database | Qdrant |
+| Retrieval | Hybrid Dense + Sparse |
+| Fusion | Reciprocal Rank Fusion (RRF, k=60) |
+| LLM | Ollama (OpenAI-compatible) |
+| Default Model | gemma2:2b |
+| Query Routing | Smart routing (hybrid search or full scroll) |
+| Hallucination Reduction | Low-confidence reranker threshold |
+
+---
+
+## License
+
+This project is intended for **educational and research purposes**.
+
+The IRCTC menu data is sourced from publicly available railway documents.
